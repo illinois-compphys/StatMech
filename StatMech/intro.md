@@ -1,11 +1,11 @@
-# Welcome to your Jupyter Book
+# Statistical Mechanics
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+<img src="https://clark.physics.illinois.edu/StatMechBanner.png" alt="StatMechBanner" >
 
-Check out the content pages bundled with this sample book to see more.
+Statistical mechanics serves as the bridge between the microscopic laws of physics and the macroscopic world we experience. While analytical methods allow us to derive elegant thermodynamic identities, computational approaches allow us to "see" the emergence of temperature and heat capacity from the statistical behavior of individual particles. These modules explore how collective behavior arise from simple underlying rules.
+
+We will utilize Monte Carlo methods to bridge the gap between quantum states and measurable thermal properties. You will learn to model the internal degrees of freedom—such as rotation and vibration—in molecules like Carbon Monoxide, as well as investigate the unique statistical signatures of ideal Bose gases. By simulating these systems, you will gain a deeper intuition for how the microscopic rules of energy quantization in quantum mechanics manifests as the macroscopic observables such as heat capacity which can be measured in the lab.
+
 
 ```{tableofcontents}
 ```
